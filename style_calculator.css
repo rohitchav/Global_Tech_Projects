@@ -1,0 +1,41 @@
+
+.heading{
+    background-color: orange;
+    color: white;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    }
+    .heading h1{
+    font-size: 40px;
+    }
+    .container{
+    display: inline-block;
+    background-color: rgb(136, 27, 27);
+    margin-left: 42%;
+    margin-top: 200px;
+    height: auto;
+    }
+    table{
+    height: 20px;
+    padding: 5px;
+    }
+    .button td input{
+    width: 55px;
+    height: 35px;
+    background-color: white;
+    border-radius: 2px;
+    }
+    table tr input{
+    width: auto;
+    }
+    #result{
+    background-color: white;
+    color: black;
+    margin-top: 9px;
+    margin-left: 10px;
+    width: 221px;
+    height: 25px;
+    }
+    
