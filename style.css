@@ -1,0 +1,159 @@
+*{
+    font-family: 'Roboto Slab', serif;
+    background: rgba(0, 0, 0, 0.562);
+    color: whitesmoke;
+}
+h1{
+    text-align: center;
+}
+.form{
+    height: 570px;
+    width: 500px;
+    border: 3px solid black;
+    margin: auto;
+    background: black;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.562) 2px 5px 5px;
+}
+.name{
+    display: flex;
+    height: 35px;
+    margin-top: 25px;
+}
+.name p{
+    font-weight: bolder;
+    font-size: 20px;
+    margin-left: 27px;
+    margin-top: 37px;
+}
+.name input{
+    margin-top: 32px;
+    margin-left: 28px;
+    height: 30px;
+    width: 150px;
+    font-weight: 500;
+    font-size: 15px;
+}
+.college p{
+    font-weight: bolder;
+    font-size: 20px;
+    margin-left: 25px;
+    margin-top: 45px;
+}
+.college{
+    display: flex;
+    height: 35px;
+    margin-top: 10px;
+}
+.college input{
+    margin-top: 41px;
+    margin-left: 18px;
+    height: 30px;
+    width: 337px;
+    font-weight: 500;
+    font-size: 15px;
+}
+.address p{
+    font-weight: bolder;
+    font-size: 20px;
+    margin-left: 25px;
+    margin-top: 47px;
+}
+.address{
+    display: flex;
+    height: 35px;
+    margin-top: 10px;
+}
+.address textarea{
+    margin-top: 50px;
+    margin-left: 8px;
+    height: 50px;
+    width: 338px;
+    font-weight: 500;
+    font-size: 15px;
+}
+.name4{
+    display: flex;
+    height: 35px;
+    margin-top: 90px;
+}
+.name4 p{
+    font-weight: bolder;
+    font-size: 20px;
+    margin-left: 25px;
+    margin-top: 2px;
+}
+#gender{
+    margin-top: 2px;
+    margin-left: 18px;
+}
+#date{
+    margin-left:11px;
+}
+.Mail{
+    display: flex;
+    height: 35px;
+    margin-top: 10px;
+}
+.Mail p{
+    font-weight: bolder;
+    font-size: 20px;
+    margin-left: 25px;
+    margin-top: 12px;
+}
+.Mail input{
+    margin-top: 12px;
+    margin-left: 20px;
+    height: 30px;
+    width: 337px;
+    font-weight: 500;
+    font-size: 15px;
+}
+.Mobile{
+    display: flex;
+    height: 35px;
+    margin-top: 10px;
+}
+.Mobile p{
+    font-weight: bolder;
+    font-size: 20px;
+    margin-left: 25px;
+    margin-top: 17px;
+}
+.Mobile input{
+    margin-top: 19px;
+    margin-left: 22px;
+    height: 30px;
+    width: 337px;
+    font-weight: 500;
+    font-size: 15px;
+}
+.Course{
+    display: flex;
+    height: 35px;
+    margin-top: 10px;
+}
+.Course p{
+    font-weight: bolder;
+    font-size: 20px;
+    margin-left: 25px;
+    margin-top: 22px;
+}
+.Course input{
+    margin-top: 26px;
+    margin-left: 20px;
+    height: 30px;
+    width: 337px;
+    font-weight: 500;
+    font-size: 15px;
+}
+#button{
+    margin-top: 57px;
+    margin-left: 212px;
+    height: 30px;
+    background-color: orange;
+}
+.button h3{
+    margin-top: 1px;
+}
+
